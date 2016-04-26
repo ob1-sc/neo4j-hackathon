@@ -5,7 +5,7 @@ Neo4J Hackathon - Neo Noobs - London Crime Discovery Visualisation
 * Available from: https://data.police.uk/data/
 * Sample data set:
 * Cypher load script:
-'''
+```
 LOAD CSV WITH HEADERS FROM "file:///crimes.csv" AS row
 WITH row WHERE row.Location IS NOT NULL AND row.Latitude IS NOT NULL AND row.Longitude IS NOT NULL AND row.Month IS NOT NULL AND row.`Falls within` IS NOT NULL AND row.`Reported by` IS NOT NULL AND row.`Crime type` IS NOT NULL AND row.`Crime ID` IS NOT NULL
 MERGE (location:Location {name: row.Location})
@@ -23,5 +23,13 @@ MERGE (location)-[:HAS_JURISDICTION]->(juris)
 MERGE (crime)-[:OCCURED_DURING]->(month)
 MERGE (crimetype)<-[:IS_TYPE]-(crime)
 MERGE (crime)-[:REPORTED_BY]->(report)
-'''
+```
+
+## Data Preparation
+* Added CrimeType float longitude and latitude properties to use distance/point functions:
+```
+$MATCH (n:Point) 
+SET n.longitude = tofloat(n.lon) , n.latitude = tofloat(n.lat) 
+```
+NOTE: we should probably have changed the load script to do this for us but didn't realise until after we had loaded the data
 
