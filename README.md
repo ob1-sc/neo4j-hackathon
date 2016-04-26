@@ -2,9 +2,10 @@
 Neo4J Hackathon - Neo Noobs - London Crime Discovery Visualisation 
 
 ## Overview
-Neo Noobs = two Neo4j virgins (Jacques and Simon)
-Minute 1 of Hackathon = 
-Minute 120 of Hackathon = see below
+* Neo Noobs = two Neo4j virgins (Jacques and Simon)
+* Minute 1 of Hackathon = 
+![Noob and Noob](/resources/noobs.PNG?raw=true)
+* Minute 120 of Hackathon = see below
 
 ## Data Set
 * Available from: https://data.police.uk/data/
