@@ -1,0 +1,399 @@
+latitude,longitude,CrimeType
+51.516032,-0.104281,Bicycle theft
+51.519017,-0.099818,Bicycle theft
+51.511879,-0.107148,Bicycle theft
+51.517568,-0.112519,Bicycle theft
+51.515047,-0.10791,Bicycle theft
+51.517836,-0.110735,Bicycle theft
+51.51769,-0.084566,Bicycle theft
+51.511478,-0.096846,Bicycle theft
+51.517244,-0.080376,Bicycle theft
+51.513171,-0.077694,Bicycle theft
+51.510868,-0.0969,Bicycle theft
+51.515142,-0.097645,Bicycle theft
+51.512598,-0.084967,Bicycle theft
+51.511775,-0.075389,Bicycle theft
+51.511053,-0.075722,Bicycle theft
+51.518207,-0.106453,Bicycle theft
+51.516476,-0.111181,Burglary
+51.513914,-0.11071,Burglary
+51.517836,-0.110735,Burglary
+51.511478,-0.096846,Burglary
+51.509344,-0.080665,Burglary
+51.513268,-0.100202,Burglary
+51.517149,-0.08776,Burglary
+51.510855,-0.089465,Burglary
+51.510787,-0.096385,Burglary
+51.512678,-0.079444,Burglary
+51.515849,-0.077596,Burglary
+51.515849,-0.077596,Burglary
+51.519812,-0.093933,Burglary
+51.518226,-0.111497,Burglary
+51.518226,-0.111497,Burglary
+51.514547,-0.112039,Other theft
+51.514547,-0.112039,Other theft
+51.523156,-0.09721,Other theft
+51.516966,-0.100884,Other theft
+51.517297,-0.102412,Other theft
+51.512887,-0.104973,Other theft
+51.515882,-0.10668,Other theft
+51.516966,-0.100884,Other theft
+51.516966,-0.100884,Other theft
+51.515404,-0.102721,Other theft
+51.516966,-0.100884,Other theft
+51.517568,-0.112519,Other theft
+51.515882,-0.10668,Other theft
+51.517526,-0.108283,Other theft
+51.517836,-0.110735,Other theft
+51.516165,-0.102502,Other theft
+51.516966,-0.100884,Other theft
+51.516966,-0.100884,Other theft
+51.513869,-0.105134,Other theft
+51.518231,-0.112939,Other theft
+51.513869,-0.105134,Other theft
+51.513869,-0.105134,Other theft
+51.516032,-0.104281,Other theft
+51.514887,-0.109647,Other theft
+51.516966,-0.100884,Other theft
+51.516966,-0.100884,Other theft
+51.517576,-0.079786,Other theft
+51.517244,-0.080376,Other theft
+51.512682,-0.084618,Other theft
+51.51868,-0.085173,Other theft
+51.516351,-0.082965,Other theft
+51.513377,-0.096363,Other theft
+51.516014,-0.081091,Other theft
+51.512745,-0.08904,Other theft
+51.51144,-0.083993,Other theft
+51.512597,-0.082748,Other theft
+51.510995,-0.079875,Other theft
+51.516393,-0.087763,Other theft
+51.512088,-0.088995,Other theft
+51.511122,-0.087666,Other theft
+51.514753,-0.082571,Other theft
+51.515281,-0.084105,Other theft
+51.516351,-0.082965,Other theft
+51.517576,-0.079786,Other theft
+51.513114,-0.086272,Other theft
+51.5151,-0.085669,Other theft
+51.514766,-0.096075,Other theft
+51.509614,-0.079011,Other theft
+51.512545,-0.096643,Other theft
+51.510894,-0.086393,Other theft
+51.510307,-0.086764,Other theft
+51.512598,-0.084967,Other theft
+51.516351,-0.082965,Other theft
+51.5151,-0.085669,Other theft
+51.517576,-0.079786,Other theft
+51.510795,-0.077578,Other theft
+51.510651,-0.080322,Other theft
+51.512088,-0.088995,Other theft
+51.516508,-0.079398,Other theft
+51.514418,-0.091823,Other theft
+51.514986,-0.084723,Other theft
+51.511453,-0.077637,Other theft
+51.517576,-0.079786,Other theft
+51.512504,-0.083645,Other theft
+51.511828,-0.080244,Other theft
+51.50932,-0.084701,Other theft
+51.511923,-0.086624,Other theft
+51.518226,-0.111497,Other theft
+51.517534,-0.09596,Other theft
+51.520699,-0.097601,Other theft
+51.516767,-0.098572,Other theft
+51.516767,-0.098572,Other theft
+51.518619,-0.088621,Other theft
+51.518619,-0.088621,Other theft
+51.516497,-0.094115,Other theft
+51.515523,-0.077451,Other theft
+51.51265,-0.076044,Other theft
+51.514367,-0.076592,Other theft
+51.515728,-0.078393,Other theft
+51.512206,-0.073152,Other theft
+51.513061,-0.076459,Other theft
+51.512206,-0.073152,Other theft
+51.512206,-0.073152,Other theft
+51.516193,-0.078806,Other theft
+51.515657,-0.079607,Other theft
+51.511775,-0.075389,Other theft
+51.51769,-0.084566,Other theft
+51.510477,-0.086728,Other theft
+51.52051,-0.08158,Other theft
+51.514501,-0.089716,Other theft
+51.520678,-0.080318,Other theft
+51.512829,-0.094758,Other theft
+51.514463,-0.093465,Other theft
+51.512088,-0.088995,Other theft
+51.511495,-0.089582,Other theft
+51.5112,-0.085257,Other theft
+51.518029,-0.082722,Other theft
+51.513463,-0.082913,Other theft
+51.516814,-0.08162,Other theft
+51.512682,-0.084618,Other theft
+51.513377,-0.096363,Other theft
+51.518433,-0.078856,Other theft
+51.514993,-0.088456,Other theft
+51.515621,-0.085086,Other theft
+51.520678,-0.080318,Other theft
+51.516877,-0.08767,Other theft
+51.513463,-0.082913,Other theft
+51.515281,-0.084105,Other theft
+51.510651,-0.080322,Other theft
+51.512682,-0.084618,Other theft
+51.516147,-0.082066,Other theft
+51.51442,-0.09472,Other theft
+51.518433,-0.078856,Other theft
+51.511332,-0.088393,Other theft
+51.512652,-0.092719,Other theft
+51.512652,-0.092719,Other theft
+51.516191,-0.086416,Other theft
+51.52181,-0.097929,Theft from the person
+51.52181,-0.097929,Theft from the person
+51.52181,-0.097929,Theft from the person
+51.506255,-0.074901,Theft from the person
+51.516207,-0.101794,Theft from the person
+51.519254,-0.098886,Theft from the person
+51.518231,-0.112939,Theft from the person
+51.518654,-0.103494,Theft from the person
+51.519017,-0.099818,Theft from the person
+51.517526,-0.108283,Theft from the person
+51.516032,-0.104281,Theft from the person
+51.516386,-0.108965,Theft from the person
+51.517526,-0.108283,Theft from the person
+51.511879,-0.107148,Theft from the person
+51.517526,-0.108283,Theft from the person
+51.519097,-0.101963,Theft from the person
+51.514753,-0.082571,Theft from the person
+51.514753,-0.082571,Theft from the person
+51.513463,-0.082913,Theft from the person
+51.513463,-0.082913,Theft from the person
+51.517576,-0.079786,Theft from the person
+51.513463,-0.082913,Theft from the person
+51.512682,-0.084618,Theft from the person
+51.510563,-0.085355,Theft from the person
+51.513389,-0.080034,Theft from the person
+51.518091,-0.078308,Theft from the person
+51.513447,-0.093493,Theft from the person
+51.513552,-0.101055,Theft from the person
+51.517576,-0.079786,Theft from the person
+51.520678,-0.080318,Theft from the person
+51.511445,-0.07608,Theft from the person
+51.520789,-0.095377,Theft from the person
+51.520085,-0.093057,Theft from the person
+51.518864,-0.097562,Theft from the person
+51.517372,-0.113767,Theft from the person
+51.518413,-0.227245,Public order
+51.513885,-0.102741,Public order
+51.517576,-0.079786,Public order
+51.518433,-0.078856,Public order
+51.510182,-0.092865,Public order
+51.510182,-0.092865,Public order
+51.512652,-0.092719,Public order
+51.514986,-0.084723,Public order
+51.516026,-0.091151,Public order
+51.513199,-0.087118,Public order
+51.516391,-0.095892,Public order
+51.517519,-0.016931,Shoplifting
+51.517519,-0.016931,Shoplifting
+51.517519,-0.016931,Shoplifting
+51.517836,-0.110735,Shoplifting
+51.518231,-0.112939,Shoplifting
+51.518231,-0.112939,Shoplifting
+51.517568,-0.112519,Shoplifting
+51.518231,-0.112939,Shoplifting
+51.517836,-0.110735,Shoplifting
+51.514513,-0.096561,Shoplifting
+51.511407,-0.083086,Shoplifting
+51.5112,-0.085257,Shoplifting
+51.513454,-0.09172,Shoplifting
+51.513394,-0.084199,Shoplifting
+51.51156,-0.090804,Shoplifting
+51.517923,-0.078488,Shoplifting
+51.51392,-0.093257,Shoplifting
+51.514986,-0.084723,Shoplifting
+51.511223,-0.089435,Shoplifting
+51.513199,-0.087118,Shoplifting
+51.513377,-0.096363,Shoplifting
+51.514513,-0.096561,Shoplifting
+51.514513,-0.096561,Shoplifting
+51.512598,-0.084967,Shoplifting
+51.511923,-0.086624,Shoplifting
+51.513148,-0.083417,Shoplifting
+51.511984,-0.094231,Shoplifting
+51.513377,-0.096363,Shoplifting
+51.517576,-0.079786,Shoplifting
+51.517244,-0.080376,Shoplifting
+51.5112,-0.085257,Shoplifting
+51.513377,-0.096363,Shoplifting
+51.513377,-0.096363,Shoplifting
+51.514463,-0.093465,Shoplifting
+51.510477,-0.086728,Shoplifting
+51.51156,-0.090804,Shoplifting
+51.517244,-0.080376,Shoplifting
+51.512598,-0.084967,Shoplifting
+51.511407,-0.083086,Shoplifting
+51.514513,-0.096561,Shoplifting
+51.517244,-0.080376,Shoplifting
+51.51442,-0.09472,Shoplifting
+51.512598,-0.084967,Shoplifting
+51.512598,-0.084967,Shoplifting
+51.512206,-0.073152,Shoplifting
+51.512206,-0.073152,Shoplifting
+51.515307,-0.097277,Shoplifting
+51.517534,-0.09596,Shoplifting
+51.512243,-0.07978,Other crime
+51.509775,-0.085014,Other crime
+51.510949,-0.084201,Other crime
+51.514158,-0.100179,Other crime
+51.5112,-0.085257,Other crime
+51.510549,-0.083972,Other crime
+51.509876,-0.086278,Other crime
+51.51442,-0.09472,Other crime
+51.513355,-0.089475,Other crime
+51.520206,-0.097736,Other crime
+51.520206,-0.097736,Other crime
+51.518413,-0.227245,Drugs
+51.523156,-0.09721,Drugs
+51.52108,-0.091732,Drugs
+51.51905,-0.076437,Drugs
+51.521038,-0.078718,Drugs
+51.521038,-0.078718,Drugs
+51.510148,-0.077029,Drugs
+51.506255,-0.074901,Drugs
+51.516032,-0.104281,Drugs
+51.516032,-0.104281,Drugs
+51.518231,-0.112939,Drugs
+51.518231,-0.112939,Drugs
+51.516032,-0.104281,Drugs
+51.513569,-0.086051,Drugs
+51.512607,-0.0773,Drugs
+51.5169,-0.084095,Drugs
+51.5169,-0.084095,Drugs
+51.512607,-0.0773,Drugs
+51.510563,-0.085355,Drugs
+51.51769,-0.084566,Drugs
+51.51356,-0.102668,Drugs
+51.509775,-0.085014,Drugs
+51.512682,-0.084618,Drugs
+51.510563,-0.085355,Drugs
+51.514917,-0.090419,Drugs
+51.513569,-0.086051,Drugs
+51.509876,-0.086278,Drugs
+51.516351,-0.082965,Drugs
+51.51442,-0.09472,Drugs
+51.509848,-0.104494,Drugs
+51.513569,-0.086051,Drugs
+51.509848,-0.104494,Drugs
+51.509775,-0.085014,Drugs
+51.509775,-0.085014,Drugs
+51.509775,-0.085014,Drugs
+51.515484,-0.088233,Drugs
+51.509848,-0.104494,Drugs
+51.517576,-0.079786,Drugs
+51.514753,-0.082571,Drugs
+51.514753,-0.082571,Drugs
+51.514753,-0.082571,Drugs
+51.512088,-0.088995,Drugs
+51.512829,-0.094758,Drugs
+51.509775,-0.085014,Drugs
+51.509414,-0.093791,Drugs
+51.512206,-0.073152,Drugs
+51.515523,-0.077451,Drugs
+51.514763,-0.075508,Drugs
+51.513647,-0.07433,Drugs
+51.516703,-0.093558,Drugs
+51.511879,-0.107148,Vehicle crime
+51.518375,-0.10293,Vehicle crime
+51.516032,-0.104281,Vehicle crime
+51.51265,-0.101452,Vehicle crime
+51.514848,-0.080146,Vehicle crime
+51.51265,-0.101452,Vehicle crime
+51.51769,-0.084566,Vehicle crime
+51.51769,-0.084566,Vehicle crime
+51.516122,-0.077224,Vehicle crime
+51.51118,-0.073065,Vehicle crime
+51.519358,-0.090348,Vehicle crime
+51.515753,-0.0954,Vehicle crime
+51.517836,-0.110735,Violence and sexual offences
+51.515404,-0.102721,Violence and sexual offences
+51.513914,-0.11071,Violence and sexual offences
+51.51953,-0.087084,Violence and sexual offences
+51.518799,-0.077601,Violence and sexual offences
+51.51905,-0.076437,Violence and sexual offences
+51.518799,-0.077601,Violence and sexual offences
+51.519615,-0.07908,Violence and sexual offences
+51.518231,-0.112939,Violence and sexual offences
+51.519358,-0.090348,Violence and sexual offences
+51.51792,-0.092628,Violence and sexual offences
+51.519358,-0.090348,Violence and sexual offences
+51.514367,-0.076592,Violence and sexual offences
+51.514763,-0.075508,Violence and sexual offences
+51.516122,-0.077224,Violence and sexual offences
+51.513007,-0.081938,Violence and sexual offences
+51.516508,-0.079398,Violence and sexual offences
+51.517576,-0.079786,Violence and sexual offences
+51.514848,-0.080146,Violence and sexual offences
+51.511828,-0.080244,Violence and sexual offences
+51.512526,-0.098777,Violence and sexual offences
+51.5151,-0.085669,Violence and sexual offences
+51.51156,-0.090804,Violence and sexual offences
+51.516067,-0.089838,Violence and sexual offences
+51.517231,-0.079613,Violence and sexual offences
+51.510182,-0.092865,Violence and sexual offences
+51.512526,-0.098777,Violence and sexual offences
+51.510477,-0.086728,Violence and sexual offences
+51.511984,-0.094231,Violence and sexual offences
+51.511916,-0.076853,Violence and sexual offences
+51.512745,-0.08904,Violence and sexual offences
+51.514753,-0.082571,Violence and sexual offences
+51.509876,-0.086278,Violence and sexual offences
+51.517576,-0.079786,Violence and sexual offences
+51.518046,-0.077777,Violence and sexual offences
+51.516014,-0.081091,Violence and sexual offences
+51.512598,-0.084967,Violence and sexual offences
+51.518433,-0.078856,Violence and sexual offences
+51.516067,-0.089838,Violence and sexual offences
+51.517576,-0.079786,Violence and sexual offences
+51.512959,-0.094464,Violence and sexual offences
+51.512745,-0.08904,Violence and sexual offences
+51.512607,-0.0773,Violence and sexual offences
+51.516014,-0.081091,Violence and sexual offences
+51.514158,-0.100179,Violence and sexual offences
+51.510014,-0.081516,Violence and sexual offences
+51.514753,-0.082571,Violence and sexual offences
+51.51144,-0.083993,Violence and sexual offences
+51.51144,-0.083993,Violence and sexual offences
+51.512088,-0.088995,Violence and sexual offences
+51.516014,-0.081091,Violence and sexual offences
+51.512526,-0.098777,Violence and sexual offences
+51.511916,-0.076853,Violence and sexual offences
+51.514292,-0.090142,Violence and sexual offences
+51.5169,-0.084095,Violence and sexual offences
+51.515281,-0.084105,Violence and sexual offences
+51.512682,-0.084618,Violence and sexual offences
+51.514418,-0.091823,Violence and sexual offences
+51.516351,-0.082965,Violence and sexual offences
+51.517519,-0.016931,Criminal damage and arson
+51.512692,-0.104621,Criminal damage and arson
+51.514986,-0.084723,Criminal damage and arson
+51.517576,-0.079786,Criminal damage and arson
+51.516006,-0.080573,Criminal damage and arson
+51.511122,-0.087666,Criminal damage and arson
+51.5102,-0.084621,Criminal damage and arson
+51.517149,-0.08776,Criminal damage and arson
+51.518511,-0.08531,Criminal damage and arson
+51.51144,-0.083993,Criminal damage and arson
+51.510182,-0.092865,Criminal damage and arson
+51.514418,-0.091823,Criminal damage and arson
+51.5151,-0.085669,Criminal damage and arson
+51.512682,-0.084618,Criminal damage and arson
+51.516078,-0.08498,Criminal damage and arson
+51.51099,-0.103928,Criminal damage and arson
+51.510787,-0.096385,Criminal damage and arson
+51.514763,-0.075508,Criminal damage and arson
+51.5112,-0.085257,Possession of weapons
+51.519254,-0.098886,Robbery
+51.520678,-0.080318,Robbery
+51.514158,-0.100179,Robbery
+51.514753,-0.082571,Robbery
+51.51769,-0.084566,Robbery
