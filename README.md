@@ -3,7 +3,7 @@ Neo4J Hackathon - Neo Noobs - London Crime Discovery Visualisation
 
 ## Data Set
 * Available from: https://data.police.uk/data/
-* Sample data set: ![](/sample-crime-data-set.csv)
+* Sample data set: ![sample-crime-data-set.csv](/sample-crime-data-set.csv)
 * CYPHER load script:
 ```
 LOAD CSV WITH HEADERS FROM "file:///sample-crime-data-set.csv" AS row
