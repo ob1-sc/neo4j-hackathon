@@ -3,10 +3,10 @@ Neo4J Hackathon - Neo Noobs - London Crime Discovery Visualisation
 
 ## Data Set
 * Available from: https://data.police.uk/data/
-* Sample data set:
+* Sample data set: !(/sample-crime-data-set.csv)
 * CYPHER load script:
 ```
-LOAD CSV WITH HEADERS FROM "file:///crimes.csv" AS row
+LOAD CSV WITH HEADERS FROM "file:///sample-crime-data-set.csv" AS row
 WITH row WHERE row.Location IS NOT NULL AND row.Latitude IS NOT NULL AND row.Longitude IS NOT NULL AND row.Month IS NOT NULL AND row.`Falls within` IS NOT NULL AND row.`Reported by` IS NOT NULL AND row.`Crime type` IS NOT NULL AND row.`Crime ID` IS NOT NULL
 MERGE (location:Location {name: row.Location})
 MERGE (point:Point {lat: row.Latitude, lon: row.Longitude})
