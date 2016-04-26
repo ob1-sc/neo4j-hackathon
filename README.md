@@ -44,7 +44,9 @@ return n.latitude as latitude, n.longitude as longitude, y.name as CrimeType
 
 ## Crime Discovery Visualisation
 * Exported cypher results as CSV
-* Results file:
+* Results file: ![crime-types-by-location.csv](/crime-types-by-location.csv)
 * Created a new map in [Google Maps: My Maps](https://www.google.com/maps/d/)
 * Added layer for Skills Matters (Hackathon Location)
+
+![Layer 1](/resources/map-layer1.PNG?raw=true)
 * Added layer and uploaded results of Crime Discovery CYPHER query
