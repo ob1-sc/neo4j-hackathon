@@ -50,3 +50,5 @@ return n.latitude as latitude, n.longitude as longitude, y.name as CrimeType
 
 ![Layer 1](/resources/map-layer1.PNG?raw=true)
 * Added layer and uploaded results of Crime Discovery CYPHER query
+
+![Layer 2](/resources/map-layer2.PNG?raw=true)
